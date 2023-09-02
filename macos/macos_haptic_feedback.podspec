@@ -4,14 +4,14 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'macos_haptic_feedback'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A new Flutter plugin project.'
   s.description      = <<-DESC
 A new Flutter plugin project.
                        DESC
-  s.homepage         = ''
+  s.homepage         = 'https://github.com/foamify/macos_haptic_feedback'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Damien WIse' => 'mrdamywise@gmail.com' }
+  s.author           = { 'Damien Wise' => 'mrdamywise@gmail.com' }
 
   s.source           = { :path => '.' }
   s.source_files     = 'Classes/**/*'
